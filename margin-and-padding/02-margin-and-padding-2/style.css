@@ -1,5 +1,5 @@
 body {
-  background: #000;
+  background: #d6c1c1;
   font-family: sans-serif;
 }
 
@@ -16,7 +16,7 @@ body {
 
 .content {
   background: #e3f4ff;
-  margin-left: 8px;
+  margin-right: 8px;
   margin-top: 16px;
 }
 
