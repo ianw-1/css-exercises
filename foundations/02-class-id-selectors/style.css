@@ -1,4 +1,8 @@
 .para {
   background-color: palevioletred;
-  font;
+  font-family: "Verdana", DejaVu Sans, sans-serif;
+}
+
+.cool {
+  font-size: 24px;
 }
