@@ -1,6 +1,15 @@
+.button1, 
+.button2 {
+  font-size: 35px;
+  font-family: sans-serif; 
+}
+
 .button1 {
   background-color: black;
   color:  white;
   font-weight: bold;
-  font-family: sans-serif;
+}
+
+.button2 {
+  background-color: yellow;
 }
